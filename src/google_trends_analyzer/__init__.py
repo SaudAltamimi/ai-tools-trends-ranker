@@ -1,0 +1,1 @@
+from .trends_analyzer import AITrendAnalyzer
